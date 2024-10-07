@@ -1,0 +1,2 @@
+1 - Sedan;2 - Coupe;3 - SUV;4 - Pick Up;5 - Enduro;6 - Rutera;7 - Scooter;8 - Camion
+ 

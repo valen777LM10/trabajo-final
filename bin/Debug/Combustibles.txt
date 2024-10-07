@@ -1,0 +1,1 @@
+1- Nafta;2 - Diesel;3 - GNC;4 - Electrico
