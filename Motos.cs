@@ -8,5 +8,10 @@ namespace Trabajo_Final___pomponio
 {
     internal class Motos
     {
+
+        public Motos()
+        {
+            Console.WriteLine(  "esto es una prueba para github");
+        }
     }
 }
