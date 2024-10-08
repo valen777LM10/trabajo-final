@@ -12,6 +12,8 @@ namespace Trabajo_Final___pomponio
         public Motos()
         {
             Console.WriteLine(  "esto es una prueba para github");
+            Console.WriteLine("esto es una prueba para github 222");
+
         }
     }
 }
