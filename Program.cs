@@ -12,7 +12,8 @@ namespace Trabajo_Final___pomponio
         static void Main(string[] args)
         {
             Vehiculo veh = new Vehiculo();
-
+            // borrar
+            Console.WriteLine("prueba");
         }
     }
 }
